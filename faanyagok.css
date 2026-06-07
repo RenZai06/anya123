@@ -1,0 +1,12 @@
+td{
+    width: 200px;
+    border: 1px solid black;
+}
+body{
+    background-color: beige;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+p{
+    font-size: 20px;
+}
